@@ -4,7 +4,7 @@ This is the git repo for my article on converting Jupyter Notebooks to Streamlit
 
 
 
-Checkout my article here. 
+Checkout my article  [here.](article.md) 
 
 
 
