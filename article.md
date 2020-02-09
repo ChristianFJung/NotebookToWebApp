@@ -110,3 +110,5 @@ Twitter: [@christianfjung](http://twitter.christianfjung.com)
 
 [christianfjung.com](http://christianfjung.com)
 
+---
+[Join the Discussion on HN](https://news.ycombinator.com/item?id=22279503)
