@@ -10,3 +10,15 @@ Checkout my article  [here.](article.md)
 
 To do more things with streamlit, checkout their amazing [docs](https://docs.streamlit.io/)! 
 
+--- 
+
+[Join the Discussion on HN](https://news.ycombinator.com/item?id=22279503)
+
+
+Twitter: [@christianfjung](http://twitter.christianfjung.com)
+
+[Linkedin](https://www.linkedin.com/in/christianfjung/)
+
+[christianfjung.com](http://christianfjung.com)
+
+
