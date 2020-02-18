@@ -4,7 +4,7 @@ This is the git repo for my article on converting Jupyter Notebooks to Streamlit
 
 
 
-Checkout my article  [here](http://blog.christianfjung.com/posts/notebooks-to-web-apps) *(or read directly in [github](article.md))*
+Checkout my article  [here](http://blog.christianfjung.com/posts/notebooks-to-web-apps) *(or read directly in [github](article.md)).*
 
 
 
